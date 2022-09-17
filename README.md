@@ -36,7 +36,7 @@ gen-shielded-address
 
 ## Şimdi tilkimask cüzdanında, kovan ağın'dan 0xli cüzdanımıza biraz test tokeni ETH atalım
 
- * Eğer kovan ağı test bakiyeniz yoksa discord faucet kanal [linki](discord.gg/ruescommunity)
+ * Eğer kovan ağı test bakiyeniz yoksa discord faucet kanal [linki](https://discord.gg/ruescommunity)
 
 ## Token attıktan sonra terminalde test tokeni mintleyelim
 
